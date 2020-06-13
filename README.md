@@ -1,4 +1,8 @@
-# Padatap
-This is an interactive webpage that gives you a particular and unique kind of tune when you press any key from A-Z showing gradients on a circle on different parts of your screen.
+Neuronal Synchrony
+==================
 
-It is designed using Paperscript and audio work done using Howler js.
+A collection of two dimensional animations that are triggered by sound.
+
+(c) 2012 - 2013 [jonobr1](http://jonobr1.com/). Freely distributed under the [MIT License](http://opensource.org/licenses/MIT).
+
+Prototyped with [Processing](http://processing.org/), built with [JavaScript](http://jonobr1.github.com/two.js).
